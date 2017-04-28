@@ -89,8 +89,8 @@ angular.extend(window.OPENSHIFT_CONSTANTS, {
   ],
 
   ENABLE_TECH_PREVIEW_FEATURE: {
-    service_catalog_landing_page: false,
-    pod_presets: false
+    service_catalog_landing_page: true,
+    pod_presets: true
   },
 
   SAMPLE_PIPELINE_TEMPLATE: {
